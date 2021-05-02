@@ -1,6 +1,6 @@
 # Moodify : Lets moodify your playlist
 
-Moodify is a web application developed using Flask for backend and ReactJS for frontend. We have used MongoDB to handle unstictured data of songs, lyrics and images. We are also using relational database to handle user authetications.
+Moodify is a web application developed using Flask for backend and ReactJS for frontend. Have used MongoDB to handle unstictured data of songs, lyrics and images. A relational database to handle user authetications.
 
 ## Overview
 
@@ -12,10 +12,6 @@ Music can evoke powerful emotional reponses such as chills and thrills in listen
  Back-end: Python, Flask  
  Database: MongoDB, MySQL  
  APIs: Genius, IBM Watson 
-
-## Development
-
-Still in Progress
 
 ## Snapshots
 
